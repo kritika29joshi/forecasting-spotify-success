@@ -31,7 +31,7 @@ Millions of songs are released each year, but only a small percentage go viral. 
 ## Report Access
 
 If you're viewing this for hiring purposes, feel free to view both:
-- [📄 Full Report (PDF)](./AI_ML_Project_Report.pdf)
+- [📄 Full Report (PDF)](./AI ML Project Report.pdf) 
 - [📘 Jupyter Notebook](./ai_ml_project_code.ipynb)
 
 ## Created by
